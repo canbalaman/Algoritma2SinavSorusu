@@ -1,5 +1,5 @@
 
-turkish_content = """# Algoritma 2 Sınav Sorusu - Corona Risk Hesaplama Programı
+# Algoritma 2 Sınav Sorusu - Corona Risk Hesaplama Programı
 
 ## 📋 Proje Hakkında
 
